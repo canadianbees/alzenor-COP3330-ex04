@@ -10,6 +10,7 @@ public class madLib
     String adverb;
     String friend;
 
+    //constructor... gets user input
     public madLib()
     {
         Scanner scan = new Scanner(System.in);
@@ -29,6 +30,7 @@ public class madLib
         this.friend = scan.nextLine();
     }
 
+    //inserts user input into story
     public void storyTime()
     {
         System.out.println("You and "+this.friend+" are in the park and you see a mysterious figure in the lake. You both go towards it and it grabs "
