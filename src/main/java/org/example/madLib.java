@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Fall 2021 madLib Class file
+ *  Copyright 2021 Celina Alzenor
+ */
 package org.example;
 
 import java.util.Scanner;
